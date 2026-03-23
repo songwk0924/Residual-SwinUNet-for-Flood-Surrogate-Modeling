@@ -32,15 +32,3 @@ If you find this code or our paper useful for your research, please cite our wor
 
 **APA Format:**
 > Song, W., & Guan, M. (2026). Enhancing cross-regional transferability of super-resolution-based flood surrogate models for data-scarce catchments. *Water Research*, 125799. https://doi.org/10.1016/j.watres.2026.125799
-
-**BibTeX:**
-```bibtex
-@article{song2026enhancing,
-  title={Enhancing cross-regional transferability of super-resolution-based flood surrogate models for data-scarce catchments},
-  author={Song, Wenke and Guan, Mingfu},
-  journal={Water Research},
-  pages={125799},
-  year={2026},
-  publisher={Elsevier},
-  doi={10.1016/j.watres.2026.125799}
-}
